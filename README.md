@@ -1,4 +1,4 @@
-# Minha Primeira Aula de GIT e GitHub 0
+# Minha Primeira Aula de GIT e GitHub
 
 Projeto pessoal de aprendizagem para uso de ferramentas de versionamento de código [Meu perfil do GitHub](https://github.com/Eumaxion).
 
