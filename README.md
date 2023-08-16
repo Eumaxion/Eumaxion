@@ -13,5 +13,5 @@ Projeto pessoal de aprendizagem para uso de ferramentas de versionamento de cód
 ```
 caixa de código
 ```
-## 👀 Referências
+## Referências
 [Mais Formatações de Texto para README](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
