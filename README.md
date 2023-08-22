@@ -1,9 +1,12 @@
-# Minha Primeira Aula de GIT e GitHub
 
-Projeto pessoal de aprendizagem para uso de ferramentas de versionamento de código [Meu perfil do GitHub](https://github.com/Eumaxion).
+# Marcio Roberto
 
-## 📖 Linked in
-[Marcio Roberto](https://www.linkedin.com/in/marcio-roberto-498931142/)
+Sou Formado em Administração, mas após varias reviravoltas da vida encontrei minha verdadeira vocação então decidi mudar de carreira e seguir meu sonho, atualmente estou Cursando Python pela [Tokio School](https://tokioschool.pt/descobre-tokio/?_gl=1*ev1dtt*_up*MQ..&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVhTVKXxllbNw56lpOACp3_eEAWqVTJFs5P8AxVWFDuYPaSdYx90-1EaAryvEALw_wcB), para me tornar um programador!
+
+Meus hobbies favoritos são: jogos, series, musicas, animes!
+## Redes
+|[Linked In](https://www.linkedin.com/in/marcio-roberto-498931142/)|[Github](https://github.com/Eumaxion)|[Perfil DIO](https://www.dio.me/users/marciorock171)|
+|-----------|----------|-----------|
 
 ## 🧑‍💻 Aprendizado
 | Tokyo School | Dio.me |
@@ -13,5 +16,5 @@ Projeto pessoal de aprendizagem para uso de ferramentas de versionamento de cód
 ```
 caixa de código
 ```
-## Referências
+## 👀 Referências
 [Mais Formatações de Texto para README](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
