@@ -1,20 +1,16 @@
-
 # Marcio Roberto
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 Sou Formado em Administração, mas após varias reviravoltas da vida encontrei minha verdadeira vocação então decidi mudar de carreira e seguir meu sonho, atualmente estou Cursando Python pela [Tokio School](https://tokioschool.pt/descobre-tokio/?_gl=1*ev1dtt*_up*MQ..&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVhTVKXxllbNw56lpOACp3_eEAWqVTJFs5P8AxVWFDuYPaSdYx90-1EaAryvEALw_wcB), para me tornar um programador!
 
+
 Meus hobbies favoritos são: jogos, series, musicas, animes!
-## Redes
-|[Linked In](https://www.linkedin.com/in/marcio-roberto-498931142/)|[Github](https://github.com/Eumaxion)|[Perfil DIO](https://www.dio.me/users/marciorock171)|
-|-----------|----------|-----------|
+## Minhas Redes
+|---------------------------------|
 
-## 🧑‍💻 Aprendizado
-| Tokyo School | Dio.me |
-|-----------|----------|
-|[Formação em Python](https://tokioschool.pt/formacoes/?MLL=4102&gad=1&gclid=Cj0KCQjwwvilBhCFARIsADvYi7LehW5xYlCBH3u7Z8TNgok35G-89uG09HyOsS0p7_rzoLSiiB-pg2waAqqKEALw_wcB) | [Bootcamp Ciências de Dados](https://web.dio.me/home) |
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-roberto-498931142/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eumaxion)        [![Perfil DIO](https://img.shields.io/badge/Perfil_Dio-%238A4182?style=for-the-badge&logo=&logoColor=0E76A8)](https://www.dio.me/users/marciorock171)
 
-```
-caixa de código
-```
-## 👀 Referências
-[Mais Formatações de Texto para README](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+|--------------------------------|
+## GitHub Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eumaxion&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
