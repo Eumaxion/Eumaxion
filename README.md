@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
 
-Sou Formado em Administração, mas após varias reviravoltas da vida encontrei minha verdadeira paixão na programação então decidi mudar de carreira e seguir meu sonho, atualmente estou Cursando Python pela [Tokio School](https://tokioschool.pt/descobre-tokio/?_gl=1*ev1dtt*_up*MQ..&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVhTVKXxllbNw56lpOACp3_eEAWqVTJFs5P8AxVWFDuYPaSdYx90-1EaAryvEALw_wcB), para me tornar um programador!
+Sou Formado em Administração, mas após varias reviravoltas da vida encontrei minha verdadeira paixão na programação então decidi mudar de carreira e seguir meu sonho, atualmente estou aprendendo a linguagem Python pela [Tokio School](https://tokioschool.pt/descobre-tokio/?_gl=1*ev1dtt*_up*MQ..&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVhTVKXxllbNw56lpOACp3_eEAWqVTJFs5P8AxVWFDuYPaSdYx90-1EaAryvEALw_wcB), para me tornar um programador!
 
 
 Meus hobbies favoritos são: series, musicas, jogos e animes!
