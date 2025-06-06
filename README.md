@@ -40,7 +40,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github.com/Eumaxion/Eumaxion/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,django" alt="Skills Icons" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  ![snake animation](https://github.com/Eumaxion/Eumaxion/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/<Eumaxion>/<Eumaxion>/blob/output/github-contribution-grid-snake2.svg)
 </p>
 
 ---
