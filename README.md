@@ -57,7 +57,7 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  ![snake animation](https://github.com/<Eumaxion>/<Eumaxion>/blob/output/github-contribution-grid-snake2.svg)
+  <img src="https://github.com/Eumaxion/Eumaxion/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
