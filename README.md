@@ -1,8 +1,4 @@
 <!-- Avatar -->
-<p align="center">
-  <img src="avatar.png" alt="Marcio Roberto Avatar" width="150" style="border-radius: 50%;">
-</p>
-
 <h1 align="center">👋 Hey! I'm Marcio Roberto</h1>
 
 <p align="center">
