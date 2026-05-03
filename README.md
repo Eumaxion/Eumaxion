@@ -89,12 +89,12 @@ Simple 3D engine using raycasting techniques inspired by early FPS games.
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Eumaxion&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api?username=Eumaxion&show_icons=true&theme=gruvbox&cache_seconds=86400"
     height="170em"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eumaxion&layout=compact&theme=gruvbox&cache_seconds=86400" 
+    src="https://streak-stats.demolab.com?user=Eumaxion&theme=gruvbox&hide_border=false"
     height="170em"
   />
 
