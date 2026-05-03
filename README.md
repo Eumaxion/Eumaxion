@@ -1,73 +1,115 @@
-<!-- Avatar -->
-<h1 align="center">👋 Hey! I'm Marcio Roberto</h1>
+<h1 align="center">Marcio Roberto</h1>
 
 <p align="center">
-💻 Tech enthusiast exploring the world of code — always curious, always learning.
+C Developer | Systems Programming | 42 Porto Student
+</p>
+
+<p align="center">
+Focused on low-level programming, algorithms, and Unix systems.<br>
+Currently building a strong foundation to enter the software industry.
 </p>
 
 ---
 
-## 🚀 A Little About Me
+## 📍 About Me
 
-- 🎓 Completed a **Python** course at [Tokio School](https://tokioschool.pt/)
-- 🧠 Currently studying **C** at [42Porto](https://www.42porto.com/pt/)
-- 📘 Learning more about **data structures and algorithms**
-- 🌐 Got some hands-on experience with **HTML**, **CSS**, and the basics of **Django**
-- 🎮 Considering a career in **game development**, but still exploring my path
+* 🎓 Student at 42 Porto
+* 💻 Focused on C, memory management, and system-level programming
+* 🧠 Strong interest in algorithms and performance optimization
+* 🎯 Currently seeking a junior developer opportunity
 
 ---
 
-## 🔗 Let's Connect
+## ⚙️ Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcio-roberto-498931142/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Eumaxion" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.dio.me/users/marciorock171" target="_blank">
-    <img src="https://img.shields.io/badge/DIO-%238A4182?style=for-the-badge&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,linux,git,bash" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 42 Progress
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,django" alt="Skills Icons" />
-</p>
+### ✅ Milestone 0
+
+* Libft
+
+### ✅ Milestone 1
+
+* ft_printf
+* get_next_line
+* born2beroot
+
+### ✅ Milestone 2
+
+* push_swap
+* so_long
+* pipex
+
+### ✅ Milestone 3
+
+* philosophers
+* minishell
+
+### 🚧 Milestone 4 (in progress)
+
+* cub3d
+* netpractice
+* cpp modules (0 to 4)
+
+
+### ⏳ Upcoming Projects
+
+* cpp modules (5 to 9)
+* webserv
+* inception
+* ft_transcendent
+
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 push_swap
+
+Algorithm optimization project focused on sorting using a limited set of operations.
+
+### 🔹 minishell
+
+Building a Unix shell from scratch with support for pipes, redirections, and process handling.
+
+### 🔹 cub3d *(in progress)*
+
+Simple 3D engine using raycasting techniques inspired by early FPS games.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eumaxion&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eumaxion&layout=compact&langs_count=7&theme=gruvbox" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eumaxion&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eumaxion&layout=compact&theme=gruvbox"/>
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🔗 Contact
 
 <p align="center">
-  <img src="https://github.com/Eumaxion/Eumaxion/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <a href="https://www.linkedin.com/in/marcio-roberto-498931142/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🎯 A Few Things About Me
+## 🎯 Current Focus
 
-- ☕ I’m a coffee addict  
-- 🎮 Big fan of gaming — especially on PC  
-- 🍣 Into Japanese and Mexican food  
-- ✈️ Traveling is one of my favorite ways to unwind  
-- 🔍 Constantly looking to learn and improve
+* Improving algorithm efficiency (push_swap)
+* Graphics fundamentals (cub3d)
 
 ---
 
-> Thanks for stopping by!  
-> This README was crafted with curiosity, a bit of code, and a lot of coffee.  
-> 💚 From **Marcio Roberto**
+<p align="center">
+Building consistency, not shortcuts.
+</p>
