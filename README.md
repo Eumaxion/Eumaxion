@@ -87,19 +87,18 @@ Simple 3D engine using raycasting techniques inspired by early FPS games.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eumaxion&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eumaxion&layout=compact&theme=gruvbox"/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Eumaxion&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&cache_seconds=86400" 
+    height="170em"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eumaxion&layout=compact&theme=gruvbox&cache_seconds=86400" 
+    height="170em"
+  />
+
 </div>
-
----
-
-## 🔗 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcio-roberto-498931142/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
