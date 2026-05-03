@@ -84,21 +84,11 @@ Simple 3D engine using raycasting techniques inspired by early FPS games.
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Activity
 
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Eumaxion&show_icons=true&theme=gruvbox&cache_seconds=86400"
-    height="170em"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=Eumaxion&theme=gruvbox&hide_border=false"
-    height="170em"
-  />
-
-</div>
+<p align="center">
+  <img src="https://github.com/Eumaxion/Eumaxion/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
 
 ---
 
